@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a bot development team
 - 💬 &nbsp; Ask me anything about discord bots.
 - 🌱 &nbsp; I’m currently learning python and java.
-- 📫 &nbsp; How to reach me: ![My Skills](https://skillicons.dev/icons?i=discord)
+- 📫 &nbsp; How to reach me: Discord - Masster Oogway#1292
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
