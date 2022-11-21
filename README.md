@@ -20,10 +20,15 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👨‍💻 &nbsp; I’m currently studying Software Design for Ai Cloud in TUS: Midlands.
-- 👯 I’m looking to collaborate on a bot development team
+- 👯 &nbsp; I’m looking to collaborate on a bot development team
 - 💬 &nbsp; Ask me anything about discord bots.
 - 🌱 &nbsp; I’m currently learning python and java.
 - 📫 &nbsp; How to reach me: Discord - Master Oogway#1292
+
+<h3> ⚡ &nbsp;Largest Projects </h3>
+
+- 🤖 &nbsp; Paladins Discord Bot - 1000+ users
+- 🤖 &nbsp; PBG Community Discord Bot - 500+ users
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
