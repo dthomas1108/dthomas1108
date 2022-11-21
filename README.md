@@ -44,25 +44,3 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
-
-<!--
-<h3> 📈 &nbsp;My Stats</h3>
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaasterOogwaay&theme=buefy&show_icons=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaasterOogwaay&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=MaasterOogwaay&theme=dark)
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=MaasterOogwaay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
-
-</div>
--->
