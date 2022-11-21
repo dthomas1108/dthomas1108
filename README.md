@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maaster%20Oogwaay&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaasterOogwaay&theme=buefy&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaster%20Oogwaay&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaasterOogwaay&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
 </div>
 
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Maaster%20Oogwaay&theme=dark)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=MaasterOogwaay&theme=dark)
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=Maaster%20Oogwaay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=MaasterOogwaay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
