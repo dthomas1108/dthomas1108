@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **MaasterOogwaay/MaasterOogwaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
 
+<!--
 <h3> 📈 &nbsp;My Stats</h3>
 
 <div align="center">
@@ -59,3 +60,4 @@ Here are some ideas to get you started:
   <img src="https://activity-graph.herokuapp.com/graph?username=MaasterOogwaay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
+-->
