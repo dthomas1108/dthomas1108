@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Worked as a Mulesoft Software Enginner
 - 👨‍💻 &nbsp; I’m currently studying Software Design for Ai Cloud in TUS: Midlands.
 - 👯 I’m looking to collaborate on a bot development team
 - 💬 &nbsp; Ask me anything about discord bots.
