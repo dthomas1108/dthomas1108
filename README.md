@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👨‍💻 &nbsp; I’m currently studying Software Design for Ai Cloud in TUS: Midlands.
 - 👯 &nbsp; I’m looking to collaborate on a bot development team
 - 💬 &nbsp; Ask me anything about discord bots.
-- 🌱 &nbsp; I’m currently learning python and java.
+- 🌱 &nbsp; I’m currently learning Python and Java.
 - 📫 &nbsp; How to reach me: Discord - Master Oogway#1292
 
 <h3> ⚡ &nbsp;Largest Projects </h3>
