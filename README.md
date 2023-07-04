@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; I’m currently learning **several things such as NextJS, ExpressJS, Python and Java**
 - 👯 &nbsp; I’m looking to collaborate on a bot development team
 - 💬 &nbsp; Ask me about **Discord.js or similar**
-- 🌱 &nbsp; I’m currently learning Python and Java.
 - 📫 &nbsp; How to reach me: **dylanthomas1108@gmail.com**
 
 <h3 align="left">🔗 &nbsp;Connect with me:</h3>
