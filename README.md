@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👨‍💻 &nbsp; I’m currently studying Software Design for Ai Cloud in TUS: Midlands.
-- 🌱 &nbsp; I’m currently learning **several things such as NextJS, ExpressJS, Python and Java**
-- 👯 &nbsp; I’m looking to collaborate on a bot development team
-- 💬 &nbsp; Ask me about **Discord.js or similar**
+- 🌱 &nbsp; I’m currently learning **several things such as Nuxt, PHP, Python and Java**
+- 👯 &nbsp; I’m looking to collaborate on a bot development team or other programming projects
+- 💬 &nbsp; Ask me about **anything in my stack**
 - 📫 &nbsp; How to reach me: **dylanthomas1108@gmail.com**
 
 <h3 align="left">🔗 &nbsp;Connect with me:</h3>
