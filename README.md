@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dthomas1108&theme=darkhub&title=-Stars,-Issues,-Reviews" alt="dthomas1108" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dthomas1108&theme=vue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/demo/?user=dthomas1108&theme=vue&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)](https://git.io/streak-stats)
 
 <p align="left"> <a href="https://twitter.com/maasteroogwaay" target="blank"><img src="https://img.shields.io/twitter/follow/maasteroogwaay?logo=twitter&style=for-the-badge" alt="maasteroogwaay" /></a> </p>
 
