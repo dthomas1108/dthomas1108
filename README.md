@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dthomas1108&theme=darkhub&title=-Stars,-Issues,-Reviews" alt="dthomas1108" /></a> </p>
 
+![dthomas1108's Stats](https://github-readme-stats.vercel.app/api?username=dthomas1108&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![dthomas1108's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dthomas1108&theme=vue-dark&hide_border=true)
+![dthomas1108's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dthomas1108&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <p align="left"> <a href="https://twitter.com/maasteroogwaay" target="blank"><img src="https://img.shields.io/twitter/follow/maasteroogwaay?logo=twitter&style=for-the-badge" alt="maasteroogwaay" /></a> </p>
 
 - 🔭 I’m currently working on **multiple college projects**
